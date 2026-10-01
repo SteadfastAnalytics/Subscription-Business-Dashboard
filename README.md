@@ -2,7 +2,7 @@
 
 # Subscription Business — Retention and Acquisition Dashboard
 
-![Subscription Retention and Acquisition Dashboard](images/subscription-dashboard.png)
+![Subscription Retention and Acquisition Dashboard](SubscriptionDemo.png)
 
 ## The Business
 
